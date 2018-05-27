@@ -1,11 +1,11 @@
-# This is Reservation project
+# Readme
 
 
-This project is a demo agent that book a table at a resturant.
-It is very similar to what google showened in thier last Google IO as Google Duplixe.
+This project is a demo agent that book a table at a restaurant.
+It is very similar to what google showed in their last Google IO as Google Duplex.
 
 
-How to run the project
+# How to run the project
 
 1. Signup at developers.over.ai
 2. Download the zip
