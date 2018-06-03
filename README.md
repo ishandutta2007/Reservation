@@ -7,9 +7,9 @@ It is very similar to what google showed in their last Google IO as Google Duple
 
 # How to run the project
 
-1. Signup at developers.over.ai
-2. Download the zip
-3. Import the demo agent into your account
+1. Signup at [developers.over.ai](https://developers.over.ai)
+2. Download one of the demo agents zip
+3. Import the zip agent into your account
 4. Use the outgoing api to make an outbound call 
 
 
